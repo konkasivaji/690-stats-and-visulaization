@@ -13,7 +13,7 @@ To work in an innovative and challenging environment extracting the best out of 
 
 ## Experience
 * **Assosicate Process Engineer**
-  * **TCL CHINA STAR OPTOELECTRONICS TECHNOLOGY**, Wuhan, China. 2019 to 2021
+  * **TCL CHINA STAR OPTOELECTRONICS TECHNOLOGY**, Wuhan, China, 2019 to 2021.
    * Responsible for LCD panel module LAM, ASSY process improvement, yield improvement.
    * Responsible for new process evaluation, equipment assessment, parameters setting.
    * Experienced in creating reports and managing the data in organized manner to develop.
