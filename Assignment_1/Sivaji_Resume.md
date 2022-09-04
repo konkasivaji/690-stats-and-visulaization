@@ -28,7 +28,7 @@ To work in an innovative and challenging environment extracting the best out of 
 * **Data Analysis using MS Excel**
 
 ## Awards
-* Awarded **second prize at TCL CHINA STAR OPTOELECTRONICS TECHNOLOGY for 8D Report            competition.**
+* Awarded **second prize at TCL CHINA STAR OPTOELECTRONICS TECHNOLOGY for 8D Report competition.**
 * Awarded second prize at school level science fair competition.**
 
 ## Social Activities
