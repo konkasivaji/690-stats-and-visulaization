@@ -18,3 +18,7 @@ Based on these indicators **Military expendicture (cureent USD), Military expend
    * Countries: India, Pakisthan, Russian Federation, China, United States.
 
    * Time Period : 2007 - 2020
+   
+## IN 2017
+The below bar chart shows how much countries spending on their  Milatiray(in terms of USD).
+![](XXXXXXXXXXXXX)
