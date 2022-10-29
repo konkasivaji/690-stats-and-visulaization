@@ -1,13 +1,20 @@
-# Education
-Education Considered an Economic Good? One of the most effective ways to fight poverty and inequality is through education and it tends to raise productivity and creativity, as well as stimulate entrepreneurship and technological breakthroughs. All of these factors lead to greater output and good economic growth. Developing countries have made tremendous progress in getting children into the classroom and more children worldwide are now in school. But learning is not guaranteed.
+# Public Sector
+The public sector is also part of the economy that maintains infrastructure, public transportation, public education, health care, and police and military services, among other things. In today's world, every nation devotes a greater percentage of its GDP on the Military. Military has a crucial role in protecting democratic and free market movements from both internal and external dangers by providing security assistance, training, and equipment. So lets investigate the publis sector. with this information, like based on its military spending and level of dependence on foreign countries when it comes to imports.
+
 ## Why is it important to you and/or to others?
-Education helps a person to learn more about the world and improve confidence. It can help you improve in your career and your personal growth. Through education economic growth is enhanced when equal education and labor opportunities are available across gender, race, age, and employment possibilities.
+Spending on the military makes the military stronger. This power makes people less likely to attack on country. If the country doesn't spend money on the military, its enemies may see it as an easy target. So, even though local defense spending may be more expensive, it creates more value in the form of stronger national security and less disruptions to trade and commerce. If a country's defense system is fully integrated, it can also help the economy.
 ## What questions do you have in mind and would like to answer?
-Based on education, there are different factors that cause an economy to grow or reduce? I'd like to do some research and find out the answers to these questions.
+Based on these indicators **Military expendicture (cureent USD), Military expenditure(% of GDP) and Arms imports( SIPRI trend indicator values)** i would like to do some research on: 
+  * what percentage of GDP is being spent on military?
+  * What percentage of Arms imports are Going on?
+  * What are the Military expendicture for those countries?
+  
 ## Where do you get the data and charts to help answer your questions (give references/credits)?
+
    * References: Wang, C. (2021). The world development explorer. Available from http﻿://www.worlddev.xyz
+
 ## What process/step you use to analyze the situation/issue?
 
-   * Countries: Malaysia, Georgia, Russian Federation, China, Thailand
+   * Countries: India, Pakisthan, Russian Federation, China, United States.
 
-   * Time Period : 2010 - 2018
+   * Time Period : 2007 - 2020
