@@ -39,7 +39,7 @@ hdbhjbvsjdbvjsd vsdv jkds vj djs v dv  v vv b    b
 ![](Scatter plot_1.png)
 hdbhjbvsjdbvjsd vsdv jkds vj djs v dv  v vv b    b 
 
-#### The Below Scatter plot shows the relationship between Milatary expenditure (% of GDP) and Milatary expenditure (current USD)
+## The Below Scatter plot shows the relationship between Milatary expenditure (% of GDP) and Milatary expenditure (current USD)
 
 ![](Scatter plot_2.png)
 hdbhjbvsjdbvjsd vsdv jkds vj djs v dv  v vv b    b
