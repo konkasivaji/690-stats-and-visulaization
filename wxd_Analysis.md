@@ -20,5 +20,32 @@ Based on these indicators **Military expendicture (cureent USD), Military expend
    * Time Period : 2007 - 2020
    
 ## IN 2017
+
 The below bar chart shows how much countries spending on their  Milatiray(in terms of USD).
-![](XXXXXXXXXXXXX)
+![](Bar chartXXXXXXXXXXXXX)
+vhsdhvchsdcvjsd bjsd        hdsbchjsvjh sj vjs s
+
+The below bar chart shows how much countries spending on their  Milatiray(in terms of USD).
+![](Pie chartXXXXXXXXXXXXX)
+hdbhjsdv dsvjhds sd svsd v v  v  dv v ds
+
+## Time series Line Graph For Milatary expenditure (Current USD) for respective year
+
+![](Time series line graph.png)
+hdbhjbvsjdbvjsd vsdv jkds vj djs v dv  v vv b    b 
+
+## The Below Scatter plot shows the relationship between Milatary expenditure (current USD) and Arms import (SIPRI trend indicator values)
+
+![](Scatter plot_1.png)
+hdbhjbvsjdbvjsd vsdv jkds vj djs v dv  v vv b    b 
+
+#### The Below Scatter plot shows the relationship between Milatary expenditure (% of GDP) and Milatary expenditure (current USD)
+
+![](Scatter plot_2.png)
+hdbhjbvsjdbvjsd vsdv jkds vj djs v dv  v vv b    b
+
+
+
+
+
+
