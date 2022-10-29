@@ -44,6 +44,10 @@ hdbhjbvsjdbvjsd vsdv jkds vj djs v dv  v vv b    b
 ![](Scatter plot_2.png)
 hdbhjbvsjdbvjsd vsdv jkds vj djs v dv  v vv b    b
 
+## Latest trens by Line Graph
+
+![](Line Graph_2.png)
+
 ## Conclusion
 bfjhdbvjds vvvvnbbbbwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwfhffffffffffffffffffffffffff
 
