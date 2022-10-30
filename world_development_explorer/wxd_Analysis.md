@@ -21,11 +21,15 @@ Based on these indicators **Military expendicture (cureent USD), Military expend
    
 ## IN 2017
 
-The below bar chart shows how much countries spending on their  Milatiray(in terms of USD).
-![](Bar chartXXXXXXXXXXXXX)
-vhsdhvchsdcvjsd bjsd        hdsbchjsvjh sj vjs s
+The below bar chart shows how much countries spending on their Military expenditure (in terms of USD).
+![](Bar_chart.png)
 
-The below bar chart shows how much countries spending on their  Milatiray(in terms of USD).
+**OBSERVATIONS**
+   * In 2019, the United States' military spending (in current dollars) is nearly $646 billion. When it comes to China  its military expenditure is 210 billion.          India's military expenditure (current USD) is 64.5 billion, and Russia's military expenditure (current USD) is 66.9 billion. Finally, Pakistan's military         expenditure in current USD is 11.4 billion.
+  
+  
+
+The below bar chart shows how much countries spending on their  Military expenditure (in terms of USD).
 ![](Pie chartXXXXXXXXXXXXX)
 hdbhjsdv dsvjhds sd svsd v v  v  dv v ds
 
