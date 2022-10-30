@@ -27,13 +27,15 @@ The below bar chart shows how much countries spending on their Military expendit
 **OBSERVATIONS**
    * In 2017, the United States' military spending (in current dollars) is nearly [$646 billion](#theme-installion). When it comes to China  its military expenditure is [210 billion](#theme-installion).          India's military expenditure (current USD) is [64.5 billion](#theme-installion), and Russia's military expenditure (current USD) is [66.9 billion](#theme-installion). Finally, Pakistan's military         expenditure in current USD is [11.4 billion](#theme-installion).
    
-   * Here, the **U.S**. is at the [top](#theme-installion) with [$646B](#theme-installion) and **Pakistan** is at the [bottom](#theme-installion) with [$11.4B](#theme-installion).
+   * Here, the **U.S** Military expenditure is at the [top](#theme-installion) with [$646B](#theme-installion) and **PAKISTHAN** is at the [bottom](#theme-installion) with [$11.4B](#theme-installion).
   
   ## IN 2017
 The below pie chart shows the **Arms imports( SIPRI trend indicator values)**
 ![](Pie_chart.png)
 **OBSERVATIONS**
    * In 2017, India has the most imports of any country at [51.1%](#theme-installion), followed by China at [23.5%](#theme-installion), Pakistan at [14.7%](#theme-installion), the US at [9.06%](#theme-installion), and Russia at [1.63%](#theme-installion).
+   
+   * Here, the **INDIA** imports are at the [top](#theme-installion) with [51.1%](#theme-installion) and **RUSSIA** is at the [bottom](#theme-installion) with [1.63%](#theme-installion).
    
 
 ## Time series Line Graph For Milatary expenditure (Current USD) for respective year
