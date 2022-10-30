@@ -40,7 +40,7 @@ The below pie chart shows the **Arms imports( SIPRI trend indicator values)**
    
 
 ## Time series Line Graph For Milatary expenditure (Current USD) for respective year
-The below line chart shows the trend for 2007 to 2020 on Military expenditure(current USD) .
+The below line chart shows the trend for [2007 to 2020 on Military expenditure(current USD)](#theme-installion) .
 ![](Line_chart.png)
 
 **OBSERVATIONS**
