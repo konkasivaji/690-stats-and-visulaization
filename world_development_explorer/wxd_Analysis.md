@@ -29,8 +29,9 @@ The below bar chart shows how much countries spending on their Military expendit
    
    * Here, the **U.S**. is at the [top](#theme-installion) with [$646B](#theme-installion) and **Pakistan** is at the [bottom](#theme-installion) with [$11.4B](#theme-installion).
   
-The below bar chart shows how much countries spending on their  Military expenditure (in terms of USD).
-![](Pie chartXXXXXXXXXXXXX)
+  ## IN 2017
+The below bar chart shows how much countries spending on their Military expenditure (in terms of USD).
+![](Bar_chart.png)
 hdbhjsdv dsvjhds sd svsd v v  v  dv v ds
 
 ## Time series Line Graph For Milatary expenditure (Current USD) for respective year
