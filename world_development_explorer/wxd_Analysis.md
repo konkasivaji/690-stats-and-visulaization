@@ -15,7 +15,7 @@ Based on these indicators **Military expendicture (cureent USD), Military expend
 
 ## What process/step you use to analyze the situation/issue?
 
-   * Countries: India, Pakisthan, Russian Federation, China, United States.
+   * [Countries: India, Pakisthan, Russian Federation, China, United States.](#theme-installion)
 
    * Time Period : 2007 - 2020
    
@@ -26,6 +26,8 @@ The below bar chart shows how much countries spending on their Military expendit
 
 **OBSERVATIONS**
    * In 2019, the United States' military spending (in current dollars) is nearly $646 billion. When it comes to China  its military expenditure is 210 billion.          India's military expenditure (current USD) is 64.5 billion, and Russia's military expenditure (current USD) is 66.9 billion. Finally, Pakistan's military         expenditure in current USD is 11.4 billion.
+   
+   * Here, the **U.S**. is at the **top** with **$646B** and **Pakistan** is at the **bottom** with **11.4B**.
   
   
 
