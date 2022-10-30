@@ -49,7 +49,7 @@ The below line chart showsxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 ## The Below Scatter plot shows the relationship between Milatary expenditure (current USD) and Arms import (SIPRI trend indicator values)
 
-![](Scatter plot_1.png)
+![](Scatter plot_Expenditure.png)
 hdbhjbvsjdbvjsd vsdv jkds vj djs v dv  v vv b    b 
 
 ## The Below Scatter plot shows the relationship between Milatary expenditure (% of GDP) and Milatary expenditure (current USD)
