@@ -44,7 +44,7 @@ The below line chart showsxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ![](Line_chart.png)
 
 **OBSERVATIONS**
-   * hdbhjbvsjdbvjsdvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv.
+   * The line chart above shows how much money was spent on the military (in current USD) from 2007 to 2020. As time goes from left to right, the United States has always been on top when comparing all the countries. In 2007, it spent 589.5 billion dollars, and in 2011, it spent 752 billion dollars, which was the most ever. From 2012 to 2018, the amount spent by the US slowly went down to about 682B. In 2020, it will be almost 778B, which is the most the country has ever spent.
    
    * ggggggggggggggggggggggggggggggggggggggggggggggggggggggg.
 
