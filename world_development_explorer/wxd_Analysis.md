@@ -44,7 +44,7 @@ The below line chart showsxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ![](Line_chart.png)
 
 **OBSERVATIONS**
-   * **United states** The line chart above shows how much money was spent on the military (in current USD) from [2007 to 2020](#theme-installion). As time goes from left to right, the United States has always been on top when comparing all the countries. In [2007](#theme-installion), it spent [589.5 billion dollars](#theme-installion), and in [2011](#theme-installion), it spent [752 billion dollars](#theme-installion), which was the most ever. From [2012 to 2018](#theme-installion), the amount spent by the US slowly went down to about [682B](#theme-installion). In [2020](#theme-installion), it will be almost [778B](#theme-installion), which is the most the country has ever spent.
+   * **United States** The line chart above shows how much money was spent on the military (in current USD) from [2007 to 2020](#theme-installion). As time goes from left to right, the United States has always been on top when comparing all the countries. In [2007](#theme-installion), it spent [589.5 billion dollars](#theme-installion), and in [2011](#theme-installion), it spent [752 billion dollars](#theme-installion), which was the most ever. From [2012 to 2018](#theme-installion), the amount spent by the US slowly went down to about [682B](#theme-installion). In [2020](#theme-installion), it will be almost [778B](#theme-installion), which is the most the country has ever spent.
    
    * ggggggggggggggggggggggggggggggggggggggggggggggggggggggg.
 
