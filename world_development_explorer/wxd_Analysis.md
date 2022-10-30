@@ -40,9 +40,12 @@ The below pie chart shows the **Arms imports( SIPRI trend indicator values)**
    
 
 ## Time series Line Graph For Milatary expenditure (Current USD) for respective year
-
+The below line chart showsxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
 ![](Line_chart.png)
-hdbhjbvsjdbvjsd vsdv jkds vj djs v dv  v vv b    b 
+**OBSERVATIONS**
+   * hdbhjbvsjdbvjsdvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv.
+   
+   * ggggggggggggggggggggggggggggggggggggggggggggggggggggggg.
 
 ## The Below Scatter plot shows the relationship between Milatary expenditure (current USD) and Arms import (SIPRI trend indicator values)
 
