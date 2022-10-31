@@ -67,10 +67,8 @@ The below line chart shows the trend for [2007 to 2020 on Military expenditure(c
 ## The Below Scatter plot shows the relationship between Milatary expenditure (% of GDP) and Milatary expenditure (current USD)
 ![](SC2.png)
 **OBSERVATIONS**
-   * hdbhjbvsjdbvjsdvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv.
+   * This scatterplot shows the relationship between military spending (as a percentage of GDP) and military spending (in current dollars), such as how much of their money is spent on the military. but SAU and OMN spend a higher percentage of their budgets on the military. If they could put money into other areas, like education and health care, those areas could also get better.
    
-   * ggggggggggggggggggggggggggggggggggggggggggggggggggggggg.
-  
 
 ## Conclusion
 bfjhdbvjds vvvvnbbbbwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwfhffffffffffffffffffffffffff
