@@ -71,5 +71,5 @@ The below line chart shows the trend for [2007 to 2020 on Military expenditure(c
    
 
 ## Conclusion
-bfjhdbvjds vvvvnbbbbwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwfhffffffffffffffffffffffffff
+The military budget is a big part of a country's overall budget. From an economic point of view, military spending is part of what the government spends on national defense. Most countries don't want to import a lot of arms if they have good technologies. Also, countries that invest a lot need to keep an eye on their military spending because they could invest in other things instead.
 
