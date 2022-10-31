@@ -59,7 +59,7 @@ The below line chart shows the trend for [2007 to 2020 on Military expenditure(c
 ![](sc.png)
 
 **OBSERVATIONS**
-   * "This scatterplot shows a strong relationship between age of drivers and number of accidents.
+   * This scatterplot shows that there is a direct relationship between Military spending (current USD) and Arms imports (SIPRI trend indicators values) across all countries. Out of all the countries, Saudi Arabia spent the most on importing arms, spending 105 billion dollars to buy 4.2 billion arms. India spends 100 billion dollars to bring in 3.2 billion arms. But China has spent 220 billion dollars on imports, which is less than SAU and IND. At the same time, the United States has spent 650 billion dollars on imports, but it only bought 0.7 billion arms and came in last place.
    
    
 
