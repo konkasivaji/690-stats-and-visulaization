@@ -48,7 +48,7 @@ The below line chart shows the trend for [2007 to 2020 on Military expenditure(c
    
    * **CHINA** The line graph below depicts China's total military expenditures (in constant USD) from [2007 to 2020](#theme-installion). In the early stages, China spent [62.5 billion dollars](#theme-installion) from there, its spending gradually increased, and by [2016](#theme-installion), it had reached the level it had maintained in [2015: a total of 196.5 billion dollars](#theme-installion) and now the country that has spent the most money overall, at a total of [252.3 billion dollars](#theme-installion).
    
-   * **RUSSIAN FEDERATION** From the line graph Russia's military expendicture (in current USD) from [2007 to 2020](#theme-installion). As time goes on from left to right, Russia has been in the 3 rd position when comparing all the selected countries. In [2007](#theme-installion), it spent [62.1B](#theme-installion) from there the trend goes slightly increased also there are few fluations, but in between 
+   * **RUSSIAN FEDERATION** From the line graph, you can see how much Russia spent on its military in current USD from [2007 to 2020](#theme-installion). As time goes from left to right, from left to right, Russia has been in the [3 rd place](#theme-installion) among the selected countries. In [2007, it spent $62.1 billion](#theme-installion). Since then, the spending has gone up and down a bit, but between [2017 and 2020](#theme-installion), it dropped faster than India and spent nearly [$65.6 billion](#theme-installion). It kept going until [2020](#theme-installion) and ended up in [4th place](#theme-installion).
    
    * **INDIA**
 
