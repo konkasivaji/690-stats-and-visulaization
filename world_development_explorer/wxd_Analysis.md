@@ -56,7 +56,7 @@ The below line chart shows the trend for [2007 to 2020 on Military expenditure(c
   
    
 ## The Below Scatter plot shows the relationship between Milatary expenditure (current USD) and Arms import (SIPRI trend indicator values)
-![](sc@latest.png)
+![](SC@latest final.png)
 
 **OBSERVATIONS**
    * "This scatterplot shows a strong relationship between age of drivers and number of accidents.
