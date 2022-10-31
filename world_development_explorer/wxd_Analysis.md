@@ -61,6 +61,7 @@ The below line chart shows the trend for [2007 to 2020 on Military expenditure(c
 **OBSERVATIONS**
    * This scatterplot shows that there is a direct relationship between Military spending (current USD) and Arms imports (SIPRI trend indicators values) across all countries. Out of all the countries, Saudi Arabia spent the most on importing arms, spending 105 billion dollars to buy 4.2 billion arms. India spends 100 billion dollars to bring in 3.2 billion arms. But China has spent 220 billion dollars on imports, which is less than SAU and IND. At the same time, the United States has spent 650 billion dollars on imports, but it only bought 0.7 billion arms and came in last place.
    
+   * This scatterplot shows countries who are investing more they have very less imports for fire arms but especially a few countries like IND and SAU, EGY and AUS. 
    
 
 ## The Below Scatter plot shows the relationship between Milatary expenditure (% of GDP) and Milatary expenditure (current USD)
