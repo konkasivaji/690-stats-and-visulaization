@@ -56,7 +56,6 @@ The below line chart shows the trend for [2007 to 2020 on Military expenditure(c
   
    
 ## The Below Scatter plot shows the relationship between Milatary expenditure (current USD) and Arms import (SIPRI trend indicator values)
-
 ![](SC@latest final.png)
 
 **OBSERVATIONS**
