@@ -59,9 +59,9 @@ The below line chart shows the trend for [2007 to 2020 on Military expenditure(c
 ![](sc.png)
 
 **OBSERVATIONS**
-   * hdbhjbvsjdbvjsdvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv.
+   * "This scatterplot shows a strong relationship between age of drivers and number of accidents.
    
-   * ggggggggggggggggggggggggggggggggggggggggggggggggggggggg.
+   
 
 ## The Below Scatter plot shows the relationship between Milatary expenditure (% of GDP) and Milatary expenditure (current USD)
 ![](SC2.png)
