@@ -52,7 +52,7 @@ The below line chart shows the trend for [2007 to 2020 on Military expenditure(c
    
    * **INDIA** From [2007 to 2020](#theme-installion), the line graph shows how much India has spent on its military (in current USD). As you move from left to right, you can see that India was in [4 th place in 2007 with 28.4 B](#theme-installion), and then it started to grow slowly until [2017](#theme-installion). But in [2018](#theme-installion), it spent more than Russia, with [66.8 B, and by 2020](#theme-installion), it was in [3 rd place, with 72.8 B](#theme-installion).
 
-   * **PAKISTHAN**
+   * **PAKISTHAN** This line graph shows Pakistan's military spending from [2007 to 2020 (in current USD)](#theme-installion). As time goes on, from left to right, Pakistan has always been in [5th place](#theme-installion). In [2007, it has spent 5.32 billion](#theme-installion), and it stayed there until [2020, when it had 10.8 billion](#theme-installion).
   
    
 ## The Below Scatter plot shows the relationship between Milatary expenditure (current USD) and Arms import (SIPRI trend indicator values)
